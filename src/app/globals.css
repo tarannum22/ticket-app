@@ -120,3 +120,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+.home-img {
+    background-image: url('../../public/images/home-img.jpg');
+}
